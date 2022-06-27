@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello! 👋
+I'm Edoardo a passionate Software Engineer, I like experimenting with new technologies 🚀
 
-<!--
-**EdoardoB/EdoardoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm Co-founder and Mobile Director @[The Wave Studio](https://www.thewavestudio.it/) 🌊
+- 📚 I love read books
+- 🖼 I like art
+- ⚽️ Football addicted
+- 📫 How to reach me: [@Edoardo_B](https://twitter.com/Edoardo_B)
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skill Set 👨🏻‍💻
+<p align="center">
+	<img title="Swift" alt="Swift" src="assets/swift.svg" width="80" height="60" />
+	<img title="SwiftUI" alt="SwiftUI" src="assets/swiftui.svg" width="100" height="60" />
+    <img title="Vapor" alt="Vapor" src="assets/vapor.png" width="60" height="60" />
+	<img title="Flutter" alt="Flutter" src="assets/flutter.svg" width="100" height="60" />
+    	<!-- <img title="SwiftUI" alt="SwiftUI" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg"  -->
+</p>
+
