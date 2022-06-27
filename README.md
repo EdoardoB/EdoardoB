@@ -9,12 +9,13 @@ I'm Edoardo a passionate Software Engineer, I like experimenting with new techno
 
 <br />
 
-# Skill Set 👨🏻‍💻
+## Skill Set 👨🏻‍💻
 <p align="center">
 	<img title="Swift" alt="Swift" src="assets/swift.svg" width="80" height="60" />
 	<img title="SwiftUI" alt="SwiftUI" src="assets/swiftui.svg" width="100" height="60" />
     <img title="Vapor" alt="Vapor" src="assets/vapor.png" width="60" height="60" />
 	<img title="Flutter" alt="Flutter" src="assets/flutter.svg" width="100" height="60" />
-    	<!-- <img title="SwiftUI" alt="SwiftUI" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg"  -->
 </p>
 
+
+Focused on the next technology...
